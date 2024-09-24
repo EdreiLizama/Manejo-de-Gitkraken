@@ -1,0 +1,1 @@
+## Para iniciar todo debemos instalr git
